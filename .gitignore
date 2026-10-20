@@ -1,0 +1,10 @@
+data/
+__pycache__/
+results/*.log
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
