@@ -1,0 +1,21 @@
+{
+  "title": "A Radiograph Foundation Model Did Not Transfer Better Than a Generic One: A Pre-Registered Linear-Probe Comparison for Knee Osteoarthritis Grading",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Preprint, code, data and results for: A Radiograph Foundation Model Did Not Transfer Better Than a Generic One: A Pre-Registered Linear-Probe Comparison for Knee Osteoarthritis Grading. Not peer reviewed. The PDF is kneescope-backbone-gate.pdf in this repository.",
+  "creators": [
+    {
+      "name": "Nagabathula, Mithil",
+      "affiliation": "University of East London"
+    }
+  ],
+  "keywords": [
+    "knee osteoarthritis",
+    "foundation models",
+    "DINOv2",
+    "medical imaging"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "access_right": "open"
+}

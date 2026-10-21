@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Radiograph Foundation Model Did Not Transfer Better Than a Generic One: A Pre-Registered Linear-Probe Comparison for Knee Osteoarthritis Grading"
+type: software
+authors:
+  - family-names: Nagabathula
+    given-names: Mithil
+    affiliation: University of East London
+    email: mithilnishu2000@gmail.com
+repository-code: "https://github.com/mithil2k2000-tech/kneescope-backbone-gate"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-21"
+keywords:
+  - "knee osteoarthritis"
+  - "foundation models"
+  - "DINOv2"
+  - "medical imaging"
+preferred-citation:
+  type: report
+  title: "A Radiograph Foundation Model Did Not Transfer Better Than a Generic One: A Pre-Registered Linear-Probe Comparison for Knee Osteoarthritis Grading"
+  authors:
+    - family-names: Nagabathula
+      given-names: Mithil
+      affiliation: University of East London
+  institution:
+    name: University of East London
+  year: 2026
+  month: 10
+  url: "https://github.com/mithil2k2000-tech/kneescope-backbone-gate/blob/main/kneescope-backbone-gate.pdf"
+  notes: "Preprint; not peer reviewed."
