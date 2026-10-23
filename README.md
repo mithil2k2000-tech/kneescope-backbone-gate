@@ -1,6 +1,6 @@
 # KneeScope backbone gate: a radiograph foundation model did not transfer better than a generic one
 
-📄 **Paper (PDF): [kneescope-backbone-gate.pdf](kneescope-backbone-gate.pdf)**
+📄 **Paper (PDF): [kneescope-backbone-gate.pdf](kneescope-backbone-gate.pdf)** · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23593016.svg)](https://doi.org/10.5281/zenodo.23593016)
 
 Pre-registered frozen linear-probe comparison for knee osteoarthritis Kellgren–Lawrence grading, from the KneeScope
 research prototype (not a medical device).
